@@ -19,11 +19,13 @@
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* clone repository
+* open in vs code
+* open terminal
+* in terminal run "npm i"
+* in terminal run "npm run build"
+* in terminal run "npm run start"
+* in termianl run "npm test"
 
 ## Known Bugs
 
